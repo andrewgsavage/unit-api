@@ -1,6 +1,6 @@
 """Unit API."""
 
-from typing import Any, Protocol, Final, Self, runtime_checkable
+from typing import Any, Final, Protocol, Self, runtime_checkable
 
 __version__: Final = "0.0.1.dev0"
 __all__ = ["__version__", "Unit"]
